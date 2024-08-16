@@ -1,1 +1,1 @@
-# IMDB_Sentiment_Analysis-via-Sequential-DL-Techniques
+# IMDB-Sentiment-Analysis-via-DL-Techniques-and-Ensemble-Learning
